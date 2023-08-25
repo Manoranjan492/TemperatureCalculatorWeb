@@ -22,6 +22,6 @@ Internship task provided by Bharat Intern , A Simple Website, which converts the
 + JavaScript: For implementing the temperature conversion logic and interactivity.
 <br><br>
 <h3>Screenshots:</h3><br>
-![Desktop](https://github.com/Manoranjan492/TemperatureCalculatorWeb/assets/119121227/239702ea-c445-4528-a24f-eab95195cd0c)
-![ipad-screenshot](https://github.com/Manoranjan492/TemperatureCalculatorWeb/assets/119121227/e2c66b1a-90df-4e18-a626-c96d504aaa7f)
+![Alt](https://a.com)
+
 
