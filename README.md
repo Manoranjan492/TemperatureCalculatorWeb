@@ -21,7 +21,19 @@ Internship task provided by Bharat Intern , A Simple Website, which converts the
 + CSS: For styling the web page and ensuring a visually appealing design.
 + JavaScript: For implementing the temperature conversion logic and interactivity.
 <br><br>
-<h3>Screenshots:</h3><br>
-![Alt](https://a.com)
+
+<h2>Screenshot:</h2>
+
+<h5>Desktop View:-</h5>
+
+![Desktop](https://github.com/Manoranjan492/TemperatureCalculatorWeb/assets/119121227/abf6c7b9-9c58-4969-aeb3-9e3278922420)
+
+<h5>ipad View:-</h5>
+
+![ipad-screenshot](https://github.com/Manoranjan492/TemperatureCalculatorWeb/assets/119121227/604d9ed8-24d9-43f8-a222-71e7a8b641b2)
+
+<h5>Mobile View:-</h5>
+
+![Phone-Screenshot](https://github.com/Manoranjan492/TemperatureCalculatorWeb/assets/119121227/cc700f07-2696-48ca-8202-29a1548b25a0)
 
 
